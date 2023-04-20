@@ -1,0 +1,23 @@
+{
+    "Title": {
+        "font": "Calibri",
+        "size": "10.0",
+        "bold": null,
+        "italic": null,
+        "underline": null
+    },
+    "Abstract": {
+        "font": "Calibri",
+        "size": "10.0",
+        "bold": null,
+        "italic": null,
+        "underline": null
+    },
+    "Body": {
+        "font": "Calibri",
+        "size": "10.0",
+        "bold": null,
+        "italic": null,
+        "underline": null
+    }
+}
